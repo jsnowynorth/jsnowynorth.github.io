@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joshua North / Site Title"
 title_separator          : "-"
 name                     : &name "Joshua North"
-description              : &description "I am a Ph.D student studying statistics at the University of Missouri Columbia. My current areas of interest are in spatio-temporal and sports statistics."
+description              : &description "personal description"
 url                      : https://jsnowynorth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jsnowynorth/jsnowynorth.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bio/Links"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D student studying statistics at the University of Missouri Columbia. My current areas of interest are in spatio-temporal and sports statistics."
+  bio              : "I am a Ph.D. student studying statistics at the University of Missouri Columbia. My current areas of interest are in spatio-temporal and sports statistics."
   location         : "Columbia, MO"
   employer         : "University of Columbia Missouri"
   pubmed           :
