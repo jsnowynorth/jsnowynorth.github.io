@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Graduate Course"
 permalink: /teaching/methods_in_sports_analystics_2
 venue: "University of Missouri Columbia, Statistics"
-date: 2021-01-015
+date: 2021-01-15
 location: "Columbia, Missouri"
 ---
 
