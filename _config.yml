@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bio/Links"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Ph.D student studying statistics at the University of Missouri Columbia. My current areas of interest are in spatio-temporal and sports statistics."
   location         : "Columbia, MO"
   employer         : "University of Columbia Missouri"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dwFZwbkAAAAJ"
-  email            : "joshua.north@mail.missouri.edu"
+  email            : "joshuanorth@mail.missouri.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
