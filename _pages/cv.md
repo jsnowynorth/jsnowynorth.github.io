@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**PDF version of my CV:**   [<span style="color:blue"> One Page</span>](http://dnychka.github.io/files/Academic_CV.pdf)
+[<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
 
 Education
 ======
@@ -63,4 +63,5 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Instructor and VIP Consultant for University of Missouri DataFest
+* American Statistical Association (ASA) member
