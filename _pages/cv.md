@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+**PDF version of my CV:**   [<span style="color:blue"> One Page</span>](http://dnychka.github.io/files/Academic_CV.pdf)
+
 Education
 ======
-**University of Missouri Columbia, 2022 (Expected)**  
-Ph.D, Statistics  
-Advisors: Christopher K. Wikle and Erin M. Schliep  
-**University of Colorado Boulder (2017)**  
-B.S., Applied Mathematics  
-B.A., Ecology and Evolutionary Biology  
-Minor, Statistics  
+### University of Missouri Columbia, 2022 (Expected)
+* Ph.D, Statistics
+* Advisors: Christopher K. Wikle and Erin M. Schliep
+
+### University of Colorado Boulder (2017)
+* B.S., Applied Mathematics
+* B.A., Ecology and Evolutionary Biology
+* Minor, Statistics
 
 Work experience
 ======
