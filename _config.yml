@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua North / Site Title"
+title                    : "Joshua North"
 title_separator          : "-"
 name                     : &name "Joshua North"
 description              : &description "personal description"
