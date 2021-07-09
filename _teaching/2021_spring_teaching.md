@@ -1,5 +1,5 @@
 ---
-title: "Methods In Sports Analytics II"
+title: "Methods In Sports Analytics II - Spring 2021"
 collection: teaching
 type: "Undergraduate/Graduate Course"
 permalink: /teaching/2021_spring_teaching
