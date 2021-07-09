@@ -1,7 +1,7 @@
 ---
 title: 'Maybe I Will Get To This'
 date: 2021-07-09
-permalink: /posts/maybe-ill-do-this
+permalink: /posts/maybe-ill-do-this/
 tags:
   - Maybe
   - Get
