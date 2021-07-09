@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-## University of Missouri Columbia, 2022 (Expected)
-* Ph.D, Statistics, Advisors: Christopher K. Wikle and Erin M. Schliep
-
-## University of Colorado Boulder
-* B.S., Applied Mathematics
-* B.A., Ecology and Evolutionary Biology
-* Minor, Statistics
+**University of Missouri Columbia, 2022 (Expected)**  
+Ph.D, Statistics  
+Advisors: Christopher K. Wikle and Erin M. Schliep  
+**University of Colorado Boulder (2017)**  
+B.S., Applied Mathematics  
+B.A., Ecology and Evolutionary Biology  
+Minor, Statistics  
 
 Work experience
 ======
