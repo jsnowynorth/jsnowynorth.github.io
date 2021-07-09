@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joshua North / Site Title"
 title_separator          : "-"
 name                     : &name "Joshua North"
-description              : &description "personal description"
+description              : &description "I am a Ph.D student studying statistics at the University of Missouri Columbia. My current areas of interest are in spatio-temporal and sports statistics."
 url                      : https://jsnowynorth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jsnowynorth/jsnowynorth.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Columbia, MO"
+  employer         : "University of Columbia Missouri"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=dwFZwbkAAAAJ"
+  email            : "joshua.north@mail.missouri.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jsnowynorth"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7631-8021"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@jsnowynorth"
   vine             :
   weibo            :
   xing             :
