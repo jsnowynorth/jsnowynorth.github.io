@@ -14,6 +14,9 @@ My research focuses on estimating nonlinear dynamic equations with a data-centri
 approach using hierarchical Bayesian methods.
 I am also interested in spatio-temporal statistics, dynamic modeling,
 deep modeling, causal inference, and sports statistics.
+Currently, I organize the Space-Time Statistics reading group and
+participate in the Sports Statistics reading group, both at the University of
+Missouri Columbia.
 
 I received my B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology,
 and a Minor in Statistics from the University of Colorado Boulder (CU) in 2017.
