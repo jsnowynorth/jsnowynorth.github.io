@@ -41,7 +41,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Service and Leadership
 ======
 * Instructor and VIP Consultant for University of Missouri DataFest
 * American Statistical Association (ASA) member
+
+Computer Skills
+======
+* Statistical/Mathematical: R, Julia, Python, C++, MATLAB, SAS
+* Applications: LaTeX, GitHub, Git
