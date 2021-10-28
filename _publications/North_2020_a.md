@@ -9,6 +9,7 @@ paperurl: 'https://ascmo.copernicus.org/articles/6/79/2020/'
 citation: 'North, J., Stanley, Z., Kleiber, W., Deierling, W., Gilleland, E., & Steiner, M. (2020). A statistical approach to fast nowcasting of lightning potential fields. Advances in Statistical Climatology, Meteorology and Oceanography, 6(2), 79-90.'
 ---
 
+
 [Download paper here](https://ascmo.copernicus.org/articles/6/79/2020/)
 
 <!---
