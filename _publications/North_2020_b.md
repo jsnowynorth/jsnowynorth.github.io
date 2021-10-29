@@ -2,7 +2,7 @@
 title: "On the spatial and temporal shift in the archetypal seasonal temperature cycle as driven by annual and semi‐annual harmonics"
 collection: publications
 permalink: /publication/North_2020_b
-<!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
+excerpt: ''
 date: 2020-09-01
 venue: 'Environmetrics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/env.2665'
