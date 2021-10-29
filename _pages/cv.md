@@ -15,7 +15,7 @@ Education
 ======
 ### University of Missouri Columbia, 2022 (Expected)
 * Ph.D, Statistics
-* Advisors: Christopher K. Wikle and Erin M. Schliep
+* Advisors: Dr. Christopher K. Wikle and Dr. Erin M. Schliep
 
 ### University of Colorado Boulder (2017)
 * B.S., Applied Mathematics
@@ -49,4 +49,4 @@ Service and Leadership
 Computer Skills
 ======
 * Statistical/Mathematical: R, Julia, Python, C++, MATLAB, SAS
-* Applications: LaTeX, GitHub, Git
+* Applications: LaTeX, GitHub, RShiny, Excel
