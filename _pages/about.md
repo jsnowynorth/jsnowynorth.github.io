@@ -20,8 +20,8 @@ I also helped develop Methods in Sports Analytics I and II, and am the current T
 
 I received my B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology,
 and a Minor in Statistics from the University of Colorado Boulder (CU) in 2017.
-While at CU, I was an undergraduate teaching assistant for pre-calculus and
-probability, and a research assistant investigating short-term forecasting (nowcasting).
+While at CU I was an undergraduate teaching assistant for pre-calculus and
+probability and a research assistant.
 I also participated in the Laboratory for Interdisciplinary Statistical Analysis
 (LISA), where I worked on multiple collaborative projects with research faculty
 around campus.
