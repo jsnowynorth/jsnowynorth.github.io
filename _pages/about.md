@@ -26,6 +26,6 @@ I also participated in the Laboratory for Interdisciplinary Statistical Analysis
 (LISA), where I worked on multiple collaborative projects with research faculty
 around campus.
 
-Some of my interests outside of work include soccer (futbol), rock climbing,
+Some of my interests outside of work include soccer (football), rock climbing,
 snowboarding, hiking, backpacking, and camping.
 Feel free to shoot me an email if you want to get in touch!
