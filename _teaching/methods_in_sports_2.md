@@ -10,8 +10,8 @@ location: "Columbia, Missouri"
 
 Advanced course in methods for analyzing individual and team based performance in sports and the use of data to drive strategy and tactics. Emphasis will be put on analytical methods to improve skills and optimize the performance of athletes.
 
-Spring 2021
+<!-- Spring 2021
 ======
 
 Spring 2020
-======
+====== -->
