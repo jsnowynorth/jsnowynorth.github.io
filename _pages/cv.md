@@ -11,16 +11,24 @@ redirect_from:
 
 [<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
 
+
 Education
 ======
-### University of Missouri Columbia, 2022 (Expected)
+### University of Missouri Columbia, 2022
 * Ph.D, Statistics
-* Advisors: Dr. Christopher K. Wikle and Dr. Erin M. Schliep
+* Advisors: Drs. Christopher K. Wikle and Erin M. Schliep
 
 ### University of Colorado Boulder (2017)
 * B.S., Applied Mathematics
 * B.A., Ecology and Evolutionary Biology
 * Minor, Statistics
+
+
+Professional Experience
+======
+### Lawrence Berkeley National Laboratory, 2022 - Present
+* CASCADE Postdoctoral Fellow
+* Advisor: Dr. Mark Risser
 
 
 Publications

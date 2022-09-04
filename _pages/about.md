@@ -16,9 +16,9 @@ I am also interested in spatio-temporal statistics, computational methods, varia
 
 Before my postdoc, I received a B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology, and a minor in Statistics from the University of Colorado Boulder (CU) in 2017.
 After CU, I completed a Ph.D. at the University of Missouri Columbia (Mizzou) working with Drs. Christopher Wikle and Erin Schliep.
-While at Mizzou, I also helped develop the course work for Methods in Sports Analytics I and II, the foundational courses for <a href="https://stat.missouri.edu/undergrad/sports-statistics" title="Sports Statistics program">Sports Statistics program</a>.
+While at Mizzou, I helped develop Methods in Sports Analytics I and II, the foundational courses for the <a href="https://stat.missouri.edu/undergrad/sports-statistics" title="Sports Statistics program">Sports Statistics program</a>.
 
-Some of my interests outside of work include soccer (football), rock climbing,
+Some of my interests outside of work include soccer (football, I am an avid Tottenham fan - COYS), rock climbing,
 snowboarding, hiking, backpacking, and camping.
 Feel free to shoot me an email if you want to get in touch!
 
