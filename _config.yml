@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bio/Links"
   avatar           : "github_pic.jpg"
-  bio              : "I am a Ph.D. cadidate studying statistics at the University of Missouri Columbia"
-  location         : "Columbia, MO"
-  employer         : "University of Columbia Missouri"
+  bio              : "I am a Postdoctoral Fellow in the Climate and Ecosystem Sciences Division at Lawrence Berkeley National Laboratory"
+  location         : "Berkeley, CA"
+  employer         : "Lawrence Berkeley National Laboratory"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dwFZwbkAAAAJ"
-  email            : "joshuanorth@mail.missouri.edu"
+  email            : "jsnorth@lbl.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

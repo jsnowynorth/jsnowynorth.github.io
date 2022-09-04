@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In August 2022 I joined the CASCADE team in the Climate Sciences division at Lawrence Berkeley National Laboratory as a Postdoctoral Fellow working with Dr. Mark Risser.
+In August 2022 I joined the CASCADE team in the Climate and Ecosystem Sciences Division at Lawrence Berkeley National Laboratory as a Postdoctoral Fellow working with Dr. Mark Risser.
 <!-- I am a CASCADE Postdoctoral Fellow in the Climate Sciences division at Lawrence Berkeley National Laboratory working with Dr. Mark Risser. -->
 My research focuses on the statistical analysis of climate extremes, data-driven discovery of nonlinear dynamical equations, and joint species distribution modeling.
 I am also interested in spatio-temporal statistics, computational methods, variable selection, data visualization, and sports statistics.
@@ -18,7 +18,7 @@ Before my postdoc, I received a B.S. in Applied Mathematics, B.A. in Ecology and
 After CU, I completed a Ph.D. at the University of Missouri Columbia (Mizzou) working with Drs. Christopher Wikle and Erin Schliep.
 While at Mizzou, I helped develop Methods in Sports Analytics I and II, the foundational courses for the <a href="https://stat.missouri.edu/undergrad/sports-statistics" title="Sports Statistics program">Sports Statistics program</a>.
 
-Some of my interests outside of work include soccer (football, I am an avid Tottenham fan - COYS), rock climbing,
+Some of my interests outside of work include soccer (or football, I am an avid Tottenham fan - COYS), rock climbing,
 snowboarding, hiking, backpacking, and camping.
 Feel free to shoot me an email if you want to get in touch!
 
