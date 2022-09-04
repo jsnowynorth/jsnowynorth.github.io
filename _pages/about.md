@@ -16,7 +16,11 @@ I am also interested in spatio-temporal statistics, computational methods, varia
 
 Before my postdoc, I received a B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology, and a minor in Statistics from the University of Colorado Boulder (CU) in 2017.
 After CU, I completed a Ph.D. at the University of Missouri Columbia (Mizzou) working with Drs. Christopher Wikle and Erin Schliep.
-While at Mizzou, I also helped develop the course work for Methods in Sports Analytics I and II, the foundational courses for <a href="https://stat.missouri.edu/undergrad/sports-statistics> Sports Statistics program </a>.
+While at Mizzou, I also helped develop the course work for Methods in Sports Analytics I and II, the foundational courses for <a href="https://stat.missouri.edu/undergrad/sports-statistics" title="Sports Statistics program">Sports Statistics program</a>.
+
+Some of my interests outside of work include soccer (football), rock climbing,
+snowboarding, hiking, backpacking, and camping.
+Feel free to shoot me an email if you want to get in touch!
 
 <!-- My research focuses on estimating nonlinear dynamic equations with a data driven
 approach using hierarchical Bayesian methods.
@@ -26,14 +30,12 @@ participate in the Sports Statistics reading group, both at the University of
 Missouri Columbia.
 I also helped develop Methods in Sports Analytics I and II, and am the current TA for the courses. -->
 
-I received my B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology,
+<!-- I received my B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology,
 and a Minor in Statistics from the University of Colorado Boulder (CU) in 2017.
 While at CU I was an undergraduate teaching assistant for pre-calculus and
 probability and a research assistant.
 I also participated in the Laboratory for Interdisciplinary Statistical Analysis
 (LISA), where I worked on multiple collaborative projects with research faculty
-around campus.
+around campus. -->
 
-Some of my interests outside of work include soccer (football), rock climbing,
-snowboarding, hiking, backpacking, and camping.
-Feel free to shoot me an email if you want to get in touch!
+
