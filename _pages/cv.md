@@ -56,5 +56,5 @@ Service and Leadership
 
 Computer Skills
 ======
-* Statistical/Mathematical: R, Julia, Python, C++, MATLAB, SAS
+* Statistical/Mathematical: R, Julia, Python, C++
 * Applications: LaTeX, GitHub, RShiny, Excel
