@@ -11,5 +11,5 @@ redirect_from:
 
 <a href="https://jsnowynorth.github.io/BayesianSVD.jl/dev/#" title="Bayesian Singular Value Decomposition">Bayesian Singular Value Decomposition</a>
 ======
-https://jsnowynorth.github.io/BayesianSVD.jl/dev/#
+Something to come about this project.
 
