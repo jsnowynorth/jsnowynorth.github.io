@@ -84,7 +84,7 @@ author:
   avatar           : "github_pic.jpg"
   bio              : "I am a Postdoctoral Fellow in the Climate and Ecosystem Sciences Division at Lawrence Berkeley National Laboratory"
   location         : "Berkeley, CA"
-  employer         : "Lawrence Berkeley \n National Laboratory"
+  employer         : "Lawrence Berkeley\ National Laboratory"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dwFZwbkAAAAJ"
   email            : "jsnorth@lbl.gov"

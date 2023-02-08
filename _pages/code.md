@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
-
-
-Bayesian Singular Value Decomposition
+<a href="https://jsnowynorth.github.io/BayesianSVD.jl/dev/#" title="Bayesian Singular Value Decomposition">Bayesian Singular Value Decomposition</a>
 ======
 https://jsnowynorth.github.io/BayesianSVD.jl/dev/#
+
