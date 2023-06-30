@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-In August 2022 I joined the CASCADE team in the Climate and Ecosystem Sciences Division at Lawrence Berkeley National Laboratory as a Postdoctoral Fellow working with Dr. Mark Risser.
-<!-- I am a CASCADE Postdoctoral Fellow in the Climate Sciences division at Lawrence Berkeley National Laboratory working with Dr. Mark Risser. -->
-My research focuses on the statistical analysis of climate extremes, data-driven discovery of nonlinear dynamical equations, and joint species distribution modeling.
+I am a Postdoctoral Fellow working with Dr. Mark Risser in the <a href="https://cascade.lbl.gov/" title="CASCADE">CASCADE</a> group in the Climate and Ecosystem Sciences Division at Lawrence Berkeley National Laboratory.
+My research focuses on the probability distributions for basis functions, statistical analysis of climate extremes, data-driven discovery of nonlinear dynamical equations, and joint species distribution modeling.
 I am also interested in spatio-temporal statistics, computational methods, variable selection, data visualization, and sports statistics.
 
 
@@ -21,21 +20,3 @@ While at Mizzou, I helped develop Methods in Sports Analytics I and II, the foun
 Some of my interests outside of work include soccer (or football, I am an avid Tottenham fan - COYS), rock climbing,
 snowboarding, hiking, backpacking, and camping.
 Feel free to shoot me an email if you want to get in touch!
-
-<!-- My research focuses on estimating nonlinear dynamic equations with a data driven
-approach using hierarchical Bayesian methods.
-I am also interested in spatio-temporal statistics, dynamic modeling, causal inference, and sports statistics.
-Currently, I organize the Space-Time Statistics reading group and
-participate in the Sports Statistics reading group, both at the University of
-Missouri Columbia.
-I also helped develop Methods in Sports Analytics I and II, and am the current TA for the courses. -->
-
-<!-- I received my B.S. in Applied Mathematics, B.A. in Ecology and Environmental Biology,
-and a Minor in Statistics from the University of Colorado Boulder (CU) in 2017.
-While at CU I was an undergraduate teaching assistant for pre-calculus and
-probability and a research assistant.
-I also participated in the Laboratory for Interdisciplinary Statistical Analysis
-(LISA), where I worked on multiple collaborative projects with research faculty
-around campus. -->
-
-
