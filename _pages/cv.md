@@ -12,9 +12,6 @@ author_profile: true
 
 [<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
 
-<!-- <embed src="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="500" height="375" type="application/pdf"> -->
-<!-- <object data="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="1000" height="1000" type='application/pdf'/> -->
-
 Education
 ======
 ### University of Missouri Columbia, 2022
@@ -34,7 +31,7 @@ Professional Experience
 * Advisor: Dr. Mark Risser
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -60,4 +57,4 @@ Service and Leadership
 Computer Skills
 ======
 * Statistical/Mathematical: R, Julia, Python, C++
-* Applications: LaTeX, GitHub, RShiny, Excel
+* Applications: LaTeX, GitHub, RShiny, Excel -->
