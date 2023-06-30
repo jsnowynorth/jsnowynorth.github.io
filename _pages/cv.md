@@ -11,7 +11,8 @@ author_profile: true
 
 [<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
 
-<embed src="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="500" height="375" type="application/pdf">
+<!-- <embed src="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="500" height="375" type="application/pdf"> -->
+<object data="{{ post.files/Academic_CV.pdf }}" width="1000" height="1000" type='application/pdf'/>
 
 Education
 ======
