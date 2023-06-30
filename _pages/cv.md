@@ -11,6 +11,7 @@ author_profile: true
 
 [<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
 
+<embed src="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="500" height="375" type="application/pdf">
 
 Education
 ======
