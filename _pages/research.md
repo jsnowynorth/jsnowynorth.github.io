@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Research"
+# title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 redirect_from:

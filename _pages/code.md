@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Code"
+# title: "Code"
+title: ""
 permalink: /code/
 author_profile: true
 redirect_from:

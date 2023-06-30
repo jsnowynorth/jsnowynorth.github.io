@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 # redirect_from:
@@ -12,7 +13,7 @@ author_profile: true
 [<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
 
 <!-- <embed src="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="500" height="375" type="application/pdf"> -->
-<object data="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="1000" height="1000" type='application/pdf'/>
+<!-- <object data="http://jsnowynorth.github.io/files/Academic_CV.pdf" width="1000" height="1000" type='application/pdf'/> -->
 
 Education
 ======
