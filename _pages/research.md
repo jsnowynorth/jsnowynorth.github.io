@@ -17,7 +17,7 @@ SVD decomposes matrix-valued data into the product of basis functions, the left-
 The singular vectors can be grouped into an orthonormal matrix (a matrix whose columns are of unit length and orthogonal to the other columns).
 For space-time processes, these basis functions can have physical representation and are useful when modeling the process.
 I am currently developing distributions and models to estimate the basis functions from SVD, or more generally any orthonormal matrix, in a probablistic manner and incorporate these estimates within more complex spatio-temporal model (paper to come).
-Check out my [code]({% link code.md %}) page if you're interested in using this!
+Check out my [code]({% link _pages/code.md %}) page if you're interested in using this!
 
 
 # Climate Extremes
@@ -32,7 +32,7 @@ As a member of the CASCADE group, I am involved in projects aimed at understandi
 Many real-world scientific processes are governed by complex nonlinear dynamic systems that can be represented by differential equations.
 However, because of the complexity of the processes, the differential equations used to represent these systems are rarely known.
 My dissertation work focused on Bayesian methods to discover the nonlinear dynamic equations governing complex real-world processes.
-If you are interested in using any of the methods I developed, check out my [code]({% link code.md %}) page!
+If you are interested in using any of the methods I developed, check out my [code]({% link _pages/code.md %}) page!
 
 
 # Collaborations
