@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Bio/Links"
-  avatar           : "github_pic.jpg"
+  avatar           : "Website_Photo.JPG"
   bio              : "I am a Career Track Research Scientist in the Climate and Ecosystem Sciences Division at Lawrence Berkeley National Laboratory"
   location         : "Berkeley, CA"
-  employer         : "Lawrence Berkeley \n National Laboratory"
+  employer         : "Lawrence Berkeley National Lab"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=dwFZwbkAAAAJ"
   email            : "jsnorth@lbl.gov"

@@ -10,15 +10,19 @@ author_profile: true
 
 {% include base_path %}
 
-[<span style="color:blue"> PDF version of my CV</span>](http://jsnowynorth.github.io/files/Academic_CV.pdf)
+[<span style="color:blue"> PDF version of my CV</span>](https://jsnowynorth.github.io/files/Academic_CV.pdf)
 
 Education
 ======
 ### University of Missouri Columbia, 2022
-* Ph.D, Statistics
+* Ph.D., Statistics
 * Advisors: Drs. Christopher K. Wikle and Erin M. Schliep
+* Dissertation: A Bayesian Approach to Data-Driven Discovery of Nonlinear Dynamic Equations
 
-### University of Colorado Boulder (2017)
+### University of Missouri Columbia, 2019
+* M.A., Statistics
+
+### University of Colorado Boulder, 2017
 * B.S., Applied Mathematics
 * B.A., Ecology and Evolutionary Biology
 * Minor, Statistics
@@ -27,34 +31,36 @@ Education
 Professional Experience
 ======
 ### Lawrence Berkeley National Laboratory, 2022 - Present
-* CASCADE Postdoctoral Fellow
-* Advisor: Dr. Mark Risser
+* Career Track Research Scientist (April 2025 - Present)
+* Postdoctoral Fellow, CASCADE group (August 2022 - April 2025)
+* Advisor: Dr. Mark D. Risser
 
 
-<!-- Publications
+Funding
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Hudson River Foundation, *Collision Course: Modeling Vessel-Sturgeon Interactions in New York Harbor*, $750,000, Co-Principal Investigator (2026-2030)
+* DOE, *Calibrated and Systematic Characterization, Attribution, and Detection of Extremes (CASCADE)*, Senior Personnel (2024-2027)
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
-Teaching
+Teaching and Advising
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* University of Missouri Columbia: Graduate Instructor, Introduction to Probability and Statistics I and II; Graduate Teaching Assistant and co-developer, Methods in Sports Analytics I and II
+* Advised undergraduate and graduate students through DOE-RENEW, the DOE Computational Science Graduate Fellowship, and university partnerships
+
+
+Awards
+======
+* Top 10 most cited 2023 *International Statistical Review* publication
+* *Journal of Agricultural, Biological and Environmental Statistics* 2022 Best Paper Award, Honorable Mention
+* ENVR Student Paper Competition, Honorable Mention (2022)
+
 
 Service and Leadership
 ======
-* Instructor and VIP Consultant for University of Missouri DataFest
-* American Statistical Association (ASA) member
+* The International Environmetrics Society (TIES): Early Career Committee Co-Chair (2025 - Present); Early Career Working Group Co-Lead (2025 - Present)
+* American Statistical Association: Publications Chair-Elect, Statistics and the Environment Section (2026 - Present); Advisory Climate Change Policy Committee Member (2025 - Present)
+* Associate Editor, *Advances in Statistical Climatology, Meteorology and Oceanography* (2024 - Present)
 
-Computer Skills
-======
-* Statistical/Mathematical: R, Julia, Python, C++
-* Applications: LaTeX, GitHub, RShiny, Excel -->
+
+<!-- Publications
+...your existing commented-out blocks stay here unchanged... -->
